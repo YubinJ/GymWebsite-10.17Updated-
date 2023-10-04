@@ -1,0 +1,114 @@
+{
+  "memberRegister": [
+    {
+      "user": "sho",
+      "pass": "admin",
+      "authority": "admin",
+      "class": [],
+      "classHistory": [],
+      "id": 1
+    },
+    {
+      "user": "user2",
+      "pass": "12",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 2
+    },
+    {
+      "user": "user3",
+      "pass": "123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 3
+    },
+    {
+      "user": "user4",
+      "pass": "123123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 4
+    },
+    {
+      "user": "user5",
+      "pass": "123123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 5
+    },
+    {
+      "user": "user6",
+      "pass": "123",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 6
+    },
+    {
+      "user": "user7",
+      "pass": "1234",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 7
+    },
+    {
+      "user": "user10",
+      "pass": "10",
+      "authority": "member",
+      "class": [],
+      "classHistory": [],
+      "id": 8
+    }
+  ],
+  "class": [
+    {
+      "className": "キックボクシング",
+      "Time": "火、木 20:00~21:00",
+      "Instructor": "先生A",
+      "PICURL": "https://martial-art-concepts.com/wp-content/uploads/2019/11/Kickboxing-bag.jpg",
+      "id": 1
+    },
+    {
+      "className": "ブラジリアン柔術",
+      "Time": "火、木 21:00~22:00",
+      "Instructor": "先生B",
+      "PICURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg/1200px-GABRIEL_VELLA_vs_ROMINHO_51.jpg",
+      "id": 2
+    },
+    {
+      "className": "総合格闘技",
+      "Time": "水 20:30~22:00",
+      "Instructor": "先生M",
+      "PICURL": "https://zebraathletics.com/wp-content/uploads/2018/11/ZC-CAGESS_SHOWCASE_CAGE-PRODUCT1-scaled.jpg",
+      "id": 3
+    },
+    {
+      "className": "空手",
+      "Time": "土日 13:00~14:00",
+      "Instructor": "先生H",
+      "PICURL": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRISFRUWGBISEhgYGRkYHBgYGBgYGBgZGRgYGBkcIS4lHB4rHxgYJjgmKy8xNTU1HCQ7QDszPy40NTEBDAwMEA8QHhISHzQrJSQ0NDQ0NDQ0NDE0NDQ0PTE0NDQ0MTQ0NDQ0NDQ0NDQ0MTQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOAA4QMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQIDBAUGBwj/xABDEAACAQIDBQUGAggEBQUAAAABAgADEQQSIQUxQVFhBhNxgZEUFSIyUqFiwQcjQnKCorHRFpLS8DNDssLhU1Rz4vH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAqEQACAgEDAwMEAgMAAAAAAAAAAQIRAxIhURMxQQQiYRRCQ5EyUgUjcf/aAAwDAQACEQMRAD8A5laC0BENFubSDsF0qd/CWNHAhhujIQ20iMNj2V8tjvjoylOh+vgAJEfDkbt00pp50uN8r3AW4PGSmn2HGVlJYxt6oEfrHUyFUoMxlJBOelEjDMHNpbtsc5biN7J2KTZppqdPKtjMsuqO6MllZiqtIqbGJllthbNpBsrA94dZcbaN1JabK2FlmsfYCyDtDZ6IOF5WliU0yhsYUt9nbMLm53SzxGw1C3EKBzSdGV0hlZcYHZediDwMsj2fXlCgc4oydjBLfH7MyGyyfgdiAqC0KDUqszNhCtNBtTY4QXEPZmzkcQoWpVZnrGFeayvstF0sI7T2KhF7COha0Y6whZZpq+y0DW0kk7FTLfTdFQa0ZDWLRM3CSMRQs+USZSoaRNmiVkD2SCWXdGCKy+muSptHKG+JgRrG8ZBaYdxoDJyUae875EwVMNaLxdI8DrLvYx0apbk2rjVSwErcRWza9Y9Qwd9TGcWoUSpKKj7SYRkpble/zGPIAJFza3jyVJkPLByaNXso/B5RrG42xsJX4faeVbSFXxVyTNsahL+RGTFOK9qEY18xvLfYLhFuRKB6lzJ9PHBVtFkcdXt7FwjJRpmnXaIJtaVm0UV2B4CQU2itos7QSTY1Fom4zaK0KV1sHNgL7r8zyEo8f2hYiyF9xuxe+8W0A0HGTaeBGMIphsoW7FrXsN1vMkekVU7D5dRVzW6WvJckhaJMzVLHMjZ1JzA3zb29T/vWaTZvakEZKim97BhYg+Mo6uybE6WA08ZX4mkUOm4xp8EtNdzeLVVmDGS2x6i1t0yuzMQFpqCdbf1N5MTGJbWFl6bRdY7Eq6ESv2O4QnleStmYM1E7xjkpG9ja7PY2OUcr3Fzp42Msds9mK+HXvVXPRKhsyj4kBAP6xf2bX3i403jdHv3Fstilx2IJcW3XlpSxYygSkFQ8oFxNtLRWNxsexVTM4A5y2xD5aflM4HYPmtJW0NoEpbpBMHHsUr1PjLdY+2M3SEYqmLkSTYsfaTygh90IICKkwoZhQKJOHxBWTlxoO+VIhiAqRcVNoC1hK2tWLGNQR2CSQIAYIcQxQeJYwQQobk2CCCAQECEYqEYAXvZfFik1Q5C5qALYC+WxvryuSADzE0mH2xh6nzCshvYgr8rb8t7Wmd7JuqtWZhcqisulyMuYEgD94Sf32dWqZSrA2BsVzC1wbEDnbyktJsFZcnCYRrMwN9PnzqLnmLWMcrbJwFUANSRrH9lnX7KwmVp12G8nTX0juEwdlNZnf4zewOtrb7eMSik92Ekq7F+uzMBSIHdpc7s7M4t0DsRHW2Xg2GlGl/Ddf+kiYzbdSolTIdAER0P1I6h0bXofIg798RgdpkMA7MF5oAW38iQPP7GVp+QUtux0fDYIVCi5QKVMKMo0XKvyoBysLeAmvoYm8w2x9tJlPdsGprbNr8Sk8XB1BNuPLSX2G2vTbcrs3ID850RxNR5OWUrl2oa2z2RpVTno5KVTitv1bHwHyeQt04zAbawD4Z8lamUJ+U70YDijDRvy4zqgxYG9QNL2zZj6KJR9uMSjYHEB10UIUvvVy4CEcRvt4EyHEIvc562KTlwkXHV0ZdOUqCxhEyLN1EOGjWN4UERZK9rgkSCAhMlYLZtatc00L5SAbFRqdw+Ii/lIsfw+JZLgag62uRZuDC3GUMnf4dxX/oNp+Kn/AKpHr7MroLvRqKBxyNl/zAWh0doOGzZnBve4YzV7K2tUZcz1FUDcTo/j4RNNK0CdujDZxzEMTpOJ2tTFMOWVm3fKpzHkTuMi061F9Wo0T400P/bIt8BRg0RmvlBNtTYE2HM2iCwvbjy4+k3tapkytQtSKOGUUroCwtYkKQG3Aa8NJ1PFBKgIdEcXvZ1Vxcag2YHdLj7iJy09zzjCA3DiTYdSeE73W2BgXvmwmHu17kIitqLaFQCD4QYDYGDwz95RoItVxq12fINfkzk5L9LQ0sjqo4NUQqcrAq3JgQfQwp6Hq5GpP3iCp3ecMrqrBilzcDLlN1FwAOUpcZ2Y2ee5rJhlFRirKnx0lFxmBeloCAbXUgcjChrKvJx47Nr2Vu4rZWtlPdvZr7spy2N+Ft80tD9HGOekKpFKmT+w7MHA65VKg9L+Np12pjLAKDpbUjpv8z+cbq1Cw04Gx/t5R6SXlfg4fs7AV6OJFJ6bq+quLbkIzFs2q5QAGzXtYS0rYYpmJL+DEW9AJ07bRZsPWpi93p2NvxELY8/mnHNqYLEiq1M6qrWve43A358ZMlW5cJ6n2FOxNwOMvNhYB8QadOxFGmwNR+FgQci82OngNeIunsx2ZqVqqq9+7AzO/EDgo/Ef7nhadQo4NKaLTRQqINANwG8/+THGOrcU51sZftl2XTFGjUWoKT06eQ/BnDUwbpuYZct28cwGlpEwXZnC0EXNR7+q241NQb63yfKo8iepM1LKXBNrBiAo/CNbnlc29BCr5KYBYEg6XGtr8xvmiijLXKqKaphHNIoiolMH4aaKqr+8QBvJlemAdT8bNY2toGUddd3nbxmiGKUfESCnS2sOkyVb5c6n6r7+gmsW4ojuV2GWoCVFREQ63ZCrE87hj6//ALMt2/x4CU8MrXzNnc8SFuFuORa9v3Js8Vs9aavUqVSKdNS7XO4DXdunINsY84is9UiwY/Cv0oNEX0GvUmRkkqNMcbdkGCAwTA6QQoDDgAUEOCACIBBAJQChHHqsbXJ+EADoBuHlGxAYALasxtcnTd0k3Z+JcvTpqdXdVHK7EAX6ayvikYghgSGUggjQgg3BB4G8E2JqzY7KzPUQOtlRgzHhpqF8Sfteb2ltHNpfU/2nIxt/EcXU6/QgGu/RQJMw/amou9FJ5gsv95tF40vk55wm2ddTFAAu261/SMpi7gVLi9QA25abvKc8o9slOUOrhRe4GVhqD1HPlLTA7YSrqj3NtRuYDlbh4ylGMuzIalHujajHJZwFvnYFgbWPwBCu7W9vvCWoDuCBEUZVQAKLXIygevpzmbo4kqcxAJtYAnRR1/t/eS8Fji7W4Ab7W1OmnidYPFRNlrWxQCKRrlS/i1r/ANdfKWNBQqKvIep4n1mYzn4VPBgp/wAwE0SPx5W/8CTKNDTJQTN3gPEAfn/UCYjaCZqlSw1zkeY+H8psKLHPUJOhCgDwza/19JHfZatWp1d2U3YfUR8p8QfWwmM4uS2NMc1FtjuysGuHogMdbF3bra58gNPKKxNdAPjdUzA2DEAtYbhffrGu0DnIKY31GA9SAB6kTPtjlw+JrM9akmFykFEs7tZL6qgLhtGOvAG3SqqkhxjrttpUr38/CNQiiy9B+UTVphtDGNk4xKtNXQ3W5W5BBuuhuDqDx8xJpEZBBrYNbfKCN9iAfOIemAosQLDz8pYq1t8zfbDbIw1FnFi7fCgPFje3kACfKUmJK3Rju322y1sIjaAhqlue9U/7j/D1mJincsSzElmJJJ3kk3JPnEzGTt2dUY6VQUEOFEUCCCCABQQQQATAILwAygFCHCBgvAYcEEK8BBwQQQGCGIUMQESqO0KqarUcfxEj0Oks6HaiuttEaxvcggn0NvtKOCNSkuzE4RfdHUtj44YlEqKLFyAwvezKwuP6HwImpTQi50XXpfhOSdjtoOmJpU1b9XVcBlOoJsbMORFhrOr1Bpbfc7pqpakc046WP4fK2fKbt8PxHiVubDoL/eTMO5ygkan8tJV06ZuCh1X0J4iW7iw8omQQNq4MVUdTuemV8AQRcddZQ7M7FUEANR3ey2yqxpoN37KEMd3FjvPO01yLeJyWiugI2AwFOkpSkiopbMQOJsFuSdSbKov0EkQs1o27kmw0gMFVwdANRx5Tk/6Rcbnr06d9KdMsRwu54jnZR5ETqlYgA62VdWPhrODbTxpr1alY/wDMckDku5B5KAPKKT2o0xreyLBBDmR0BQocEAChQzBAAoIcEAGbwAxu8MGUTY8DATG7wXgOxd4d4i8ImAWOAw7xsGHeAWOXh3jYMO8Bjl4LxAMF4BZbdm6qrisKzGy9+gJ4C5y3PTWdvSiDqdRwnntVLEKAWZjYKNSxOgAHEk6TveEwdWmlMZ8zimgcNxcKMxBHW8uPBhm8Mm0UGYACwEkM19JHwzkgkgqb2sekeHGMxH0QCNVjE5zwhK0KAQ54DeYk/CLcTG2qkmyeZ5eEXTTj/Xj1gMp+12K7nBYlxoxp5AeIaocin1a/lOJT0Bj8EmIp1KDi6VEKnmOTDqDYjqJ5/wDHfIkb4uzDghQSDUEEEEACMEEEABBBBACHeAGN3hgyjOxwGHeIvDvALFXhXhXhXgFiw0VeNgwAwCx0GHeNAw80B2O3gvGw0O8B2WGxccKGIoVyLrSqo7cfhB+IjqBcjqBPQoqIUz3FrXuNeGluk813nQP0a7XF6tGviCqIiCijEbyxBC3F2t8Iy6jWOL8GeSNqzpSYi+vAxb1eC6mVXtiht91J+YaXB424SemKRRvUX3EnUzdowHVQjU6nmfyiKj8BvMbfFKTlvc/aKRb68YgHaKgRZN924RktwBGm88pAxPaDDUwwDq7r+yhDEtyJHy+ciTS3ZcMc5y0xVsg9s9v+x0gV1rVsyoPpsBd26C48yJxm81HbHDYqs5xjq70bAZl+JKVh8SlRqi8bkWN995lbzJu9zp6bxtxfddxV4LxN4LxDsXeFeJvBeAWKvBEEwXgAuCIzQSgsg3hiJMMQOexUEK8K8B2KgvE3ggFi7w7xAMOA7F3h3mg7Odi8ZjbPTp5KJ/5tS6Jb8PFv4QR1E6Tsr9GOBpAd+zV30vmfu0v+FEN7eLGKhOSRxbNw4n1mn2F2Fx2LU1EphKetnrEoHI4ILFj42t1ncsBs6lhxajRooOSIiE/xKLk+Ml9/m1jolzZzbDfozw9BQcRUetVYfKl6aL56sx63A6S02b2OwNJCwoE1Lgq7u7OhBNitrAEEcBeausuY3O9R9uccw2HvZjuUG3jffKpE6mcy7TbIdKrVgGUVAmqF0AKqFKkA6bjoeZlKmLqZrCqWIHytlY2Hh8U3XaJK2Ld8PRIWjSIFRzcBm0+HTfbTT14SBhuwGZQ3fC/RNx8CfzmD16va2e1jy4I4ksyV1xvXyULdoqiAB8ockWYXzNbXVb25a6RZ7S12Hwkk7s2gy+XGTMR2CxDPo65AdHbfbj8A3+sfxHY16I70OjoguysuW6jeLXIPhBvLV2XGXopNJJb9tikw+DxGLbIO8qW3gsxRb8Wuco85r9kdg8tjWcAW0Wnz6sw3eAmp2JiEekmRVVQLZVAAU21FhulmRKjjT3bs5M/rskW4Qio1x3KfD0VpOtJEbu7Elr/CNNwF7kkzM9p/0a08Qy1cMyUGN865SUa+5lVfkO/QaG/PftcTTNiRvGvUjiBCoVLqORAt5zSjztcru9zjGM/Rrj0Zgi06qjcyOq5ulnsQft1mX2ls2th37uvSem53BxYNbirbmHUEz0oryPiVoYhTSqIlWmd4Zc6X5g2tfqNYqKWR+TzReC86x2g/RUjBnwVQo28UqpLIeiP8y/xZvETmO1Nl18O3d4ik1N7XAYaMOasLqw13gmBoppkS8F4i8F4DsXeCN3ggFkYmGIUMQMQ4IRhwAFoIYMO0ACE6v+jDshRemMbiUWozkmiji6KqnKXZToxLA2vcWAPHTlSqTYKLsTYDmToB6z0OmHGHo0qK3tSoogt+AAXPmLyoxtik6L56w9Iw2JXW97ceI87ajzEhAM6hkPxAajn1BkcYixs4ZG4MPzG4+UtRM7J7UzbPScW5DVD5cPK0TSx4zBXGSpusfkb91vyOsiVKdvj1F/8AmUzof3ljVWo7KQypVQ8rK3odDK02Fl5YEjny6cfEQ8dXFOm7cEQtboovaZyk75MlOo6lqihVa4dFBu1mKn4SQB62lptkk0K2a1+6a9t17XNukzkqs1xJOST8tDOyFth6ZNv1i53Jvqz/ABEn1+0saNdBx39IxsUA4bD/APxIPsI+2FB1EmNUisr/ANj/AOh+1XPwjTmZUdoXJoVW/ZC28yQv5y3FEgWHnKrtVphagHNP+tYT2iyvTK80V8orexFez1E4FFPmCR+c2l5g+xP/ABKh/Cv9T/abk6zPF/FHT/k6+odfAZMiV6iU1LMQqLc3O7U/+YztzGmhRaqqhmQrZSbXuwX87+UyCYypXcVKvxkG6oNEXy4nqZ0xxtq/B5jlWxoErPXNyCtAblO9+rDl09ZY9+o0uABpYfYabpW4ek7i7tlX6V0+8XUZEsDw+VBvJ5mDXgaZaU6t90ru0GzqeMoPhqgBzA5GO9KljkdTwIPqLjcYxjMUQpHy3HpH1qajncGTpHZ50qIysyOLOjFWB3hlNmB8CDE3mw/Shsk0cYaoFqeLXvFPDOLLVXxvlb+OY28yZunYq8EReCMY0BFQAwoGYIBBCBgKxUMGKEFoDL3sTge+x+FQi6iqHbwpgvr0uoHnO641L+k5h+h/A5q+IxFtKVIUxyzVGubHmFT+adSffNIESIez8Swco3LQ9BwMtGyOLEAykxNRUZyTZbb9eNuUaXaKkXR18eR8Jroct0RdFm+DZLmm9vwnUGQK5ubMuRybXHyeJ4qOshLtKqjhS2ZW4tuP7p/LWPV9pBhZgfKx+8rRJC1Ieo7GopiUxT4lXCXITMcpYAKhIzEfCOmpsd4lzUdKquiupDoynKVJAYEX+8wm0cSiguajoBvLMFA87TGbR7VakUgXP1vu8hvP2kyxRStuiozk2q8HcNi4N6dFKb2LpmW67iAxykcri2kmzzRX23iXN2r1fBWZQPIEQxt/FDQYrEjwrVf9Uw2WyNG222+7PS5EzXavH0TRqUhVpmoxW1MOpc5XUk5Qb6AGcFxO1K9UWqV6zryeo7D0ZjF4Ks1M5kOVrEXAHHxkS3TRrgahkUn4af6OkYPtNSwblXF6jqCL3CgfEBcgHjeTX7aVqwPdOiru+ABiOhLXsfSckxeIZ2zOxZuZN9P9mIp1CuoJB6Ej+k1wzjBJNJh6uTz5XNOrOntiGds1V2Y/iJY+Uvdk4tANFOUftab+QHGciw23qyWuQ6jg+v8ANv8AW82Ww+061CqglKm4Lff0U7m8N+m6dnUhkVLb4OLTKO5vXrVapygFE66Mf7SdhsElMZt7czvkKltEKis5GcDcL+UpK3aWpnsQppk2taxA8ZkoSeyRWpLuWO0Kt2C8yPubS1yfEDKPMGqA/u2l+u+TJVQ0yq7bbD9swdSmovWpfrKXMsoN0/iUsviQeE4DeenkNpxL9JPZ/wBmxJqoP1GKLOttyve9RPU5h0a3CYSRpFmPgggkl2AUjyh90Zsvco5Q/co5TT2cl9DLwY3ujCNEzZ+5hyg9z9I6hyS8OXgxootFd03Ka/3P0hHZB5RqMORdPIvB0L9HGyTQwNNmFnxLGsw5KwAQf5VU+LGaE75G2RtNK1NAgyMiAFOK2FtPqXqJIdoomUk09yvx+HLkkcpnsTs0NmdSEqL8yncbbyOU0j1gp6SPicKj/GHAsL5hqNOBE3hJxM5KzmO3Ns1kqrTpMctL5gwursdbEchzuN5kf/FGKtYCmCRvysSOou1pebc2aO9Zl1Di50Is24gX1toD59JX+7j9Mqm977h47GYxbVqpzVHdz+I6DwG4eQjAwrTXe7z9MHu8/TJ6KZWujJ+ytEnCNNeNnn6Yfu88odBB1DIrhTJC0DbdNN7uPKD3ceUPp0CzUZKphmMb9labL3ceUHu48ovpweUxvsrcofs7dZsfdp5RPu08oP04uqQsN2nxKoqOFcJuZgc5H4mvr42v4wsR2jdgbUVBtvzMR6W/OTvdh5Qe6zylqM0qTJ1Rfg2GFrn9Ubf8Qp5Xtea6kQeE5/sgvdEa5KMLfuj+032FrIRe5uelvSTmjVDix8GVvajYQxuGqUGsH+emxt8NRb5T0B1U9GMs05xnHbWpUbZ3AY7lGrnwUa267pz03saHn/8Aw5jP/a1v8sE7f/jGl9NX0T/VDj6UuA1LkymQ/TDCH6Y/lbrDyN1m7wrhGy9U15YzkP0xQT8Md7p+sMUn6yH6ePwaL1rXh/obFPpFij0iu4frD9nbkYn6Zf2RS9c/6sCUbEFTYjcRoR4GWNPaD7ms3XcfUSvGGfkYPZX5GCwae0kKfqVPZ42x/aO2KVJQ9Viqs2W+VmAJuf2QTw5SvfbeGIzLiKRPLMAelwdRIXaLAl0FNjb4geukzD7NRLAfMddYnl0S03ZzPGpe5Jr4ZvVpBgraEEA+IOv5wezDpGNl0HelTYAkZAPTT8pL9jfkYPEpPVqW50x9RpioqD2G/Zh0g9mHSOexPyMHsL8jDpL+4fU3+Mb9mXpB7KvSOewvyMP2BuX3lLGl94nmv8Yz7KsBwqx73e3L7we725feNKvyEOaf4yOcKOYiDheokv3c/wDswe7n/wBmWtvvIdP8bIRwp5iIOGbmJP8Adz9PWD3a3T1lKdfeiHC/sf7K00W6RBRuktDs5unrB7ubp6ylkS8ozeJvtB/sqwWUgjeDf0l4m1adJO8dwlMAXZv6dT0Eje7W6esou1+xy9FGJt3dQa3vbMCN3iRIy5IuOz3COKafZpCsZ26qV3FHCg06ZNjVYAuR+FdyA9bnX9mIo0CtySWdvmZiWZj1JlZ2f2WVZTmBGhmx92t0mXp8sN3J7l5MU3SSKb4oJce7G6QTq68OTL6fLwSxXbmPSH37cx6CICxWXwkaIcC62Xliu/bmPQQDENz+wibeH3gyw0R4Qurk5Yrv3+r7CDvm+qIsYWU9IaI8IOrk5Y53zfV/SM4jGlQSGudw5X8YzUwzMCDUax4fDYeHwyO+zHIt3z+PwX/6JhOE5bJJI6I5ox3bbIeJcNfO4uee/wApHTZYY3vfUWN/sYuv2TRzmaq5J5v+QW0do9ncgstZwP3v/rMl6WS7ND+pT7lzgkyIEBtbWwOgvykjOeZldhMG9O9nDX3lySf6ST8f4P5v7Tqx41GKTo555ZOXtbofznmfWDMeZjGZ+Sfz/wCmFnqck/n/ANM10LhE658v9j+Y8zBmPMxnvKn00/5v9MSXq/Sn839otC4Qtc+WSCTzMK/jI5er9Kejwi9X6U9Hj0L4DXLlkq3UwZfGRO8q/Sno0He1fpX0aGgWqXJKyQZRIveVvpT+aAVq30p6GPSFsklIWWMGtW5J6GFnq8k9GhpCyRkEhbYpg0nXnl8rMD+UdzVfwehjGNwj1UKMwCk3+G4OnWRODcWioyqSbGdlYcICd9rekuGTeV3cgdRzlWmCqAEd6dQR8q3165Y8MK+/vD5BQfULOPHgyQlao655oSjVsl+Z+8KJs/NfSCddPg5dT5Z//9k=",
+      "id": 4
+    }
+  ],
+  "news": [
+    {
+      "Title": "ショウ選手はXXX大会勝利",
+      "Time": "2023年9月18日",
+      "PICURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9znRcmollXF9QZ1XeOJiZYA3BoPkEB6-uZw&usqp=CAU",
+      "Content": "ショウ選手は、60キロのキックボクシングの試合で見事勝利しました。試合は非常に激しいもので、ショウ選手は彼の卓越したテクニックと戦術を駆使して対戦相手に立ち向かいました。初回から最後のラウンドまで、ショウ選手は高いキック、パンチ、そして膝蹴りを組み合わせた攻撃を繰り出しました。彼のダイナミックな動きと戦術的な判断力が、対戦相手に対する優位性を築きました。試合の結果、ショウ選手は対戦相手を圧倒し、判定においても一致した勝利を収めました。彼の勝利は、彼のトレーニングと努力の賜物であり、キックボクシング界における彼の名声を一層高めるものとなりました。ショウ選手のファンやサポーターは、彼の卓越した実力と専念に感銘を受け、今後の彼のキャリアに期待しています。この試合の勝利は、彼のキックボクシングのキャリアにおいて輝かしい一歩となりました。おめでとう、ショウ選手！",
+      "id": 1
+    },
+    {
+      "Title": "9/17(日)、9/18(月・祝)のクラス予定",
+      "Time": "2023年9月15日",
+      "PICURL": "",
+      "Content": "9/17(日)、9/18(月・祝)はショウ選手が出場し前日計量もあるためクラススケジュールが以下のように変更になります。\n\n9/17(日)\n\n１号館 通常開館\n２号館 終日休館\n\n9/18(月・祝)\n\n１号館\n\n8:30～10:00 柔術(先生B)\n16:00～16:45 キック初心者(先生A)\n17:00～18:15 キッズ柔術(先生B)\n※夜の柔術クラスは休講\n\n２号館\n9:30～11:00 柔術自主練\n※通常のクラスは休講\n\nジム生の皆様、お気をつけください。",
+      "id": 2
+    }
+  ]
+}
